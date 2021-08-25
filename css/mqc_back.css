@@ -1,0 +1,36 @@
+/* mon_jeu_concours main css */ 
+.mqc_text_align_center{
+    text-align: center;
+}
+.mqc_color_red{
+    color: red;
+}
+.mqc_color_green{
+    color: green;
+}
+.mqc_color_white{
+    color: white;
+}
+#mqc_winner_background{
+    background-color: rgba(226, 21, 21, 0.842);
+    color: white;
+    width: 100%;
+    padding: 1em;
+}
+.mqc_input{
+    margin: 0.5em;
+}
+.mqc_input_small{
+    width: 5%;
+}
+.mqc_input_medium{
+    width: 30%;
+}
+.mqc_input_large{
+    width: 40%;
+}
+#mqc_backoffice_label{
+    background-color: #1b4cd4bd;
+    padding: 2em;
+    margin: 0;
+}

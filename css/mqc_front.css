@@ -1,0 +1,32 @@
+/* Front_office css */
+.mqc_align{
+    justify-content: center;
+}
+.mqc_light{
+    font-size: small;
+}
+
+.mqc_p{
+    text-align: center;
+}
+.mqc_input_front {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+
+input[type=submit]{
+    width: auto;
+    margin: 0.5em;
+    padding: 10px;
+}
+#mqc_link_button{
+    background-color: rgba(255, 255, 255, 0);
+    padding: 0.5em;
+} 
+.mqc_text_align_center{
+    text-align: center;
+}
+
+
